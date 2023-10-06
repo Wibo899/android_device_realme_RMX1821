@@ -24,7 +24,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit from Realme RMX1821
 $(call inherit-product, device/realme/RMX1821/device.mk)
 
-PRODUCT_NAME := lineage_RMX1821
+PRODUCT_NAME := crdroid_RMX1821
 PRODUCT_DEVICE := RMX1821
 PRODUCT_MANUFACTURER := Realme
 PRODUCT_BRAND := Realme
